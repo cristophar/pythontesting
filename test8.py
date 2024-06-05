@@ -1,0 +1,12 @@
+a=6
+print(bin(a))
+a=9
+print(bin(a))
+a=10
+print(bin(a))
+a=100
+print(bin(a))
+a={1,2,3}
+print(id(a))
+a={1}
+print(id(a))

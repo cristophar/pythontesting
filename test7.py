@@ -1,0 +1,6 @@
+tuple = (0, True, False)
+x = all(tuple)
+print(x)
+tuple = (-3, 5 , False)
+x = all(tuple)
+print(x)
