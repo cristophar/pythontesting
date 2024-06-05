@@ -73,6 +73,8 @@
 # add(9,30)
 # add(100, 1000)
 
+print("Min Khant")
+
 
 
 
